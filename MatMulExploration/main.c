@@ -1,4 +1,4 @@
-#include "CacheLineSize.h"
+#include "CacheInfo.h"
 #include "MatMulExploration.h"
 
 #define N 1024
