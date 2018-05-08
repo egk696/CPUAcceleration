@@ -18,7 +18,7 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CacheLineSize.c">
+    <ClCompile Include="CacheInfo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -26,7 +26,7 @@
     <ClInclude Include="MatMulExploration.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CacheLineSize.h">
+    <ClInclude Include="CacheInfo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
